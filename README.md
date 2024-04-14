@@ -1,6 +1,9 @@
 # InterviewPrep Group Readme
 
 Welcome to InterviewPrep Group! 🚀
+## Organizer and Presenter
+
+Leonardo Arcino Vanzei
 
 ## About Us
 
