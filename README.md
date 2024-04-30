@@ -3,7 +3,7 @@
 Welcome to InterviewPrep Group! 🚀
 ## Organizer and Presenter
 
-Leonardo Arcino Vanzei
+### Leonardo Arcino Vanzei
 
 ## About Us
 
@@ -11,7 +11,7 @@ InterviewPrep Group is a supportive environment designed for primarily English a
 
 ## Events
 
-Our events take place every Monday at 7PM EST. During these sessions, we delve into various technical topics, tackle challenging problems together, and offer guidance on interview strategies.
+Our events take place every Monday at 7:30PM EST. During these sessions, we delve into various technical topics, tackle challenging problems together, and offer guidance on interview strategies. The events are FREE!
 
 ## What You'll Find Here
 
@@ -30,6 +30,15 @@ In this repository, you'll discover a wealth of resources to aid your preparatio
 2. **Contribute**: Share your knowledge and solutions by contributing to this repository. Help others learn and grow!
   
 3. **Stay Updated**: Follow our repository for regular updates and notifications about upcoming events and new resources.
+
+## Reference Course Details
+
+[@ThePrimeagen](https://www.twitch.tv/theprimeagen)
+* This is and AMAZING Course lectured by @ThePrimeagen that we are using as reference to learn about the Data Structures. The course is FREE, so if you can give him a shoutout on TwitchTV, please do so!  It's not everyday someone awesome shares content for FREE.
+
+### The Last Algorithms Course You'll Need
+
+[FrontendMaster](https://frontendmasters.com/courses/algorithms/)
 
 ## Let's Grow Together
 
