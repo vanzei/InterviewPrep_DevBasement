@@ -34,7 +34,7 @@ In this repository, you'll discover a wealth of resources to aid your preparatio
 ## Reference Course Details
 
 [@ThePrimeagen](https://www.twitch.tv/theprimeagen)
-* This is and AMAZING Course lectured by @ThePrimeagen that we are using as reference to learn about the Data Structures. The course is FREE, so if you can give him a shoutout on TwitchTV, please do so!  It's not everyday someone awesome shares content for FREE.
+* This is an AMAZING Course lectured by @ThePrimeagen that we are using as reference to learn about the Data Structures. The course is FREE, so if you can give him a shoutout on TwitchTV, please do so!  It's not everyday someone awesome shares content for FREE.
 
 ### The Last Algorithms Course You'll Need
 
